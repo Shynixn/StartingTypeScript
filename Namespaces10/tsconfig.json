@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outFile": "main.js",
+    "module": "commonjs",
+    "target": "es5"
+  }
+}
